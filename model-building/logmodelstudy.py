@@ -1,24 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[17]:
-
-
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import warnings
 import pickle
-
 from sklearn.model_selection import train_test_split as tts
 from sklearn.utils import resample
 from sklearn.linear_model import LogisticRegression
-
-warnings.filterwarnings('ignore')
-
-
-# In[2]:
-
 
 df = pd.read_csv("train.csv")
 
