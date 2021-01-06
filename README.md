@@ -1,4 +1,4 @@
-![crash-test-1620591_1280](https://user-images.githubusercontent.com/73612432/103823915-ba1d7d80-5051-11eb-9b31-8348d609eb7d.jpg)
+![crash-test-1620591_640](https://user-images.githubusercontent.com/73612432/103824033-ea651c00-5051-11eb-9b73-d2191e206b42.jpg)
 # Predicting possible Buyers!
 A Healthy Insurance Company will release a new product: car insurance for their clients. But the Sales team already have a limited number of phone offering calls and they´re interested to know what´s the best way to direct this calls according to their clients. Let´s help them answering this question!
 
