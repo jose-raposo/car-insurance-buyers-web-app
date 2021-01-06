@@ -1,3 +1,7 @@
+numpy
+pandas
+matplotlib
+sklearn
+seaborn
 streamlit==0.73.1
-numpy==1.18.5
-pickle-mixin==1.0.2
+opencv-python-headless
