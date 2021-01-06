@@ -4,10 +4,10 @@ A Healthy Insurance Company will release a new product: car insurance for their 
 
 The dataset of this project is available at https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction  
 
-<b>Check the Web App of the project:</b>https://insurance-predictor-buyer.herokuapp.com/
+<b>Check the Web App of the project at </b>https://insurance-predictor-buyer.herokuapp.com/
 
 ## Steps of the problem:
 1 - Get insights/information about the database features (EDA step)  
-2 - Explore which features are best related with the "proneness" to get a car insurance  
+2 - Explore and select which features are best related with the "proneness" to get a car insurance  
 3 - Stress different ML models that best fit our goal in this special case (you´ll find more discussion on Jupyter Notebook)  
 4 - Applying the best ML model chose on the test dataset to predict unknown client´s responses  
