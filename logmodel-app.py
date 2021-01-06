@@ -1,27 +1,14 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import streamlit as st
 import pickle 
 import numpy as np
+from sklearn.linear_model import LogisticRegression
 
 model = pickle.load(open('logmodelml.pkl', 'rb'))
-
-
-# In[2]:
-
 
 def predict_carinsurance_buyer(Age, Previously_Insured, Gender_Male, Vehicle_Age_greater_2y, Vehicle_Damage_Yes, Vehicle_Age_less_1y):
     input = np.array([[Age, Previously_Insured, Gender_Male, Vehicle_Age_greater_2y, Vehicle_Damage_Yes, Vehicle_Age_less_1y]]).astype(np.float64)
     prediction = model.predict(input)
     return prediction
-
-
-# In[3]:
-
 
 def main():
     
