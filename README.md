@@ -9,5 +9,5 @@ The dataset of this project is available at https://www.kaggle.com/anmolkumar/he
 ## Steps of the problem:
 1 - Get insights/information about the database features (EDA step)  
 2 - Explore and select which features are best related with the "proneness" to get a car insurance  
-3 - Stress different ML models that best fit our goal in this special case (you´ll find more discussion on Jupyter Notebook)  
+3 - Stress different ML models that best fit our goal in this special case (more about that on Jupyter Notebook)  
 4 - Applying the best ML model chose on the test dataset to predict unknown client´s responses  
