@@ -7,7 +7,7 @@ The dataset of this project is available at https://www.kaggle.com/anmolkumar/he
 <b>Check the Web App of the project at </b>https://insurance-predictor-buyer.herokuapp.com/
 
 ## Steps of the problem:
-1 - Get insights/information about the database features (EDA step)  
-2 - Explore and select which features are best related with the "proneness" to get a car insurance  
-3 - Stress different ML models that best fit our goal in this special case (more about that on Jupyter Notebook)  
-4 - Applying the best ML model chose on the test dataset to predict unknown client´s responses  
+<b>1</b> - Get insights/information about the database features (EDA step)  
+<b>2</b> - Explore and select which features are best related with the "proneness" to get a car insurance  
+<b>3</b> - Stress different ML models that best fit our goal in this special case (more about that on Jupyter Notebook)  
+<b>4</b> - Applying the best ML model chose on the test dataset to predict unknown client´s responses  
