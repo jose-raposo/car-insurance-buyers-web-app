@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run logmodel_app.py
+web: sh setup.sh && streamlit run logmodel-app.py
